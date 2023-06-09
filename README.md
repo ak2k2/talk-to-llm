@@ -1,1 +1,1 @@
-# https://www.geeksforgeeks.org/hotword-detection-with-python/# : Snowboy Hotword Detection
+# (Snowboy Hotword Detection)[https://www.geeksforgeeks.org/hotword-detection-with-python/#]
