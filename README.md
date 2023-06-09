@@ -1,3 +1,6 @@
+## What is this?
+Utilize ElevenLabs, Google Speech Recognition, and OpenAI APIs to enable interactive conversations with a Language Model (LLM) in various voices, including cloned voices.
+
 ## Prerequisites
 - Python 3.x
 - pip package manager
